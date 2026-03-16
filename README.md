@@ -50,6 +50,7 @@ Procedure for Load test:
 Tabulation for Open Circuit Test
 Tabulation for Load Test:
 Model graph:
+![image](https://github.com/bmbalaji2007-lab/EXP-2/blob/main/1.jpeg?raw=true)
 
 Calculation: 
 
