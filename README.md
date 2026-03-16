@@ -56,7 +56,7 @@ Calculation:
 
 Open circuit characteristics
 ![WhatsApp Image 2025-11-12 at 20 45 12_4f4d7a58](https://github.com/user-attachments/assets/b8839b6d-9c96-48d1-9258-c543d9aa3706)
-![Image](https://github.com/bmbalaji2007-lab/EXP-2/blob/main/2.jpeg?raw=true
+![Image](WhatsApp Image 2025-11-12 at 20 45 12_4f4d7a58)
 
 <img width="870" height="776" alt="Screenshot 2025-11-12 204258" src="https://github.com/user-attachments/assets/1d6b4b9c-847d-4e56-9e9f-adad51f1ebf5" />
 
